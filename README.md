@@ -43,14 +43,21 @@ Instead of simply selecting players based on average fantasy points per game, th
 
 
 
--FinalProjectNBA.ipynb   -       **Main Jupyter notebook with data analysis and optimization logic**
-- NBAProject1.xlsx       -       **Dataset containing historical and actual NBA player stats**
--DKSalaries.csv          -       **DraftKings salary, position, and average PPG info**
--PlayerStats.csv         -       **Full-season player statistics through Feb 21, 2024**
-- game_data/             -        **Folder with individual game box scores from Feb 22, 2024**
-- FinalProjectNBA.html   -      **Optional HTML rendering of the notebook for quick viewing**
-  - README.md            -         **Project overview and instructions**
+-`FinalProjectNBA.ipynb`   -       **Main Jupyter notebook with data analysis and optimization logic**
 
+- `NBAProject1.xlsx`       -       **Dataset containing historical and actual NBA player stats**
+  
+-`DKSalaries.csv`          -       **DraftKings salary, position, and average PPG info**
+
+-`PlayerStats.csv `        -       **Full-season player statistics through Feb 21, 2024**
+
+- `game_data/`             -        **Folder with individual game box scores from Feb 22, 2024**
+  
+- `FinalProjectNBA.html`   -      **Optional HTML rendering of the notebook for quick viewing**
+  
+  - `README.md`            -         **Project overview and instructions**
+
+> *Note: Additional files used in the original assignment (e.g., DKSalaries.csv, PlayerStats.csv, and individual game box scores) were consolidated into `NBAProject1.xlsx`.*
 
 ## 📈 Key Outcomes
 
